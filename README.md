@@ -47,17 +47,11 @@ Typical tasks:
 * Download project files.
 * Review documentation.
 
-Typical workflow:
-
-1. Open the project repository in your browser.
-2. Navigate to the file you wish to edit.
-3. Click the **Edit** (pencil) button or **Add file**.
-4. Make your changes.
-5. Commit the changes with a short description.
-
 No Git knowledge is required.
 
-### Level 2 – Using GitHub Desktop
+Full instructions can be found [here](manual/github_web_browser.md)
+
+### Level 2 – Using GitHub Desktop (TBA)
 GitHub Desktop synchronises a local folder on your computer with the repository on GitHub.
 
 Typical workflow
