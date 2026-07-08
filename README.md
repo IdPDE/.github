@@ -79,11 +79,12 @@ Typical commands include:
 * Create branches
 * Merge branches
 
-For examples on basic Git commands, see [this GitHub page](https://github.com/devaaravmishra/git-commands)
+For examples on basic Git commands, see [this GitHub page](https://github.com/devaaravmishra/git-commands).
 
 ## Repository structure
 
 Each project repository should contain enough information for another researcher to understand the project.
+You can use the repository template found [here](https://github.com/IdPDE/repository-template) and click "Use this template".
 
 A typical repository contains:
 
