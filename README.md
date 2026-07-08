@@ -46,7 +46,7 @@ Typical tasks:
 
 No Git knowledge is required, full instructions can be found [here](manual/github_web_browser.md).
 
-### Level 2 – Using GitHub Desktop (TBA)
+### Level 2 – Using GitHub Desktop
 GitHub Desktop synchronises a local folder on your computer with the repository on GitHub.
 
 Typical workflow
@@ -89,13 +89,3 @@ A typical repository contains:
 * Results
 * Figures
 
-## Documentation
-
-Every repository should answer the following questions:
-
-* What is this project?
-* What is the goal?
-* How can someone reproduce or continue the work?
-
-A repository should remain understandable after the original student or researcher has left the project.
-You can use the repository template to start documenting a project.
