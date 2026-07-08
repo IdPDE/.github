@@ -1,8 +1,4 @@
 # Workflow 1 – GitHub web interface
-No software installation is required.
-
-## Purpose
-
 This workflow is intended for users who occasionally contribute to a repository, primarily work with documentation, or supervise student projects. It provides all essential functionality without requiring any knowledge of Git.
 
 Typical tasks include:
