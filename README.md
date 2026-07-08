@@ -6,12 +6,24 @@ The IdPDE GitHub organization provides a central place to store, maintain, and d
 
 GitHub is used to:
 
-* preserve project knowledge after students graduate;
-* facilitate collaboration between researchers;
-* provide version history of documents and software;
-* share software and documentation where appropriate.
-* improve reproducibility of research;
+* preserve project knowledge after students graduate
+* facilitate collaboration between researchers
+* provide version history of documents and software
+* share software and documentation where appropriate
+* improve reproducibility of research
 
+## Terminology
+
+| Term  | Meaning |
+| --- | --- |
+| Organisation | IdPDE |
+| Repository | One research project |
+| Branch | Parallel version of a project |
+| Commit | Save changes |
+| Push | Upload saved changes |
+| Pull | Download changes |
+| Clone | Make local copy of repository |
+| README | Project homepage |
 
 ## Choosing the appropriate workflow
 There are three different workflows with increasing level of complexity and options.
