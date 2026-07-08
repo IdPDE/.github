@@ -13,7 +13,7 @@ GitHub is used to:
 * improve reproducibility of research;
 
 
-# Choosing the appropriate workflow
+## Choosing the appropriate workflow
 There are three different workflows with increasing level of complexity and options.
 
 | If you want to...                              | Recommended workflow |
@@ -22,9 +22,8 @@ There are three different workflows with increasing level of complexity and opti
 | Work on project files regularly                | GitHub Desktop       |
 | Develop software or work on Linux/ROS systems  | Git Command Line     |
 
----
 
-# Level 1 – GitHub web interface
+### Level 1 – GitHub web interface
 No software installation is required.
 
 Typical tasks:
@@ -36,7 +35,7 @@ Typical tasks:
 * Download project files.
 * Review documentation.
 
-### Typical workflow
+Typical workflow:
 
 1. Open the project repository in your browser.
 2. Navigate to the file you wish to edit.
@@ -46,12 +45,10 @@ Typical tasks:
 
 No Git knowledge is required.
 
----
-
-# Level 2 – Using GitHub Desktop
+### Level 2 – Using GitHub Desktop
 GitHub Desktop synchronises a local folder on your computer with the repository on GitHub.
 
-### Typical workflow
+Typical workflow
 
 1. Clone the repository to your computer.
 2. Work on your files using your normal software.
@@ -63,15 +60,14 @@ GitHub Desktop synchronises a local folder on your computer with the repository 
 
 Before starting:
 * Fetch or Pull the latest changes
+
 After finishing:
 * Commit your changes
 * Push them to GitHub
 
 No command-line knowledge is required.
 
----
-
-# Level 3 – Using Git from the command line
+### Level 3 – Using Git from the command line
 This workflow offers the greatest flexibility and is particularly suitable for Linux-based development environments such as ROS.
 
 Typical commands include:
@@ -85,9 +81,7 @@ Typical commands include:
 
 For examples on basic Git commands, see [this GitHub page](https://github.com/devaaravmishra/git-commands)
 
----
-
-# Repository structure
+## Repository structure
 
 Each project repository should contain enough information for another researcher to understand the project.
 
@@ -100,9 +94,7 @@ A typical repository contains:
 * Results
 * Figures
 
----
-
-# Documentation expectations
+## Documentation
 
 Every repository should answer the following questions:
 
@@ -111,3 +103,4 @@ Every repository should answer the following questions:
 * How can someone reproduce or continue the work?
 
 A repository should remain understandable after the original student or researcher has left the project.
+You can use the repository template to start documenting a project.
