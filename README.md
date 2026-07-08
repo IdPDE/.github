@@ -1,6 +1,6 @@
 # IdPDE GitHub Manual
 
-The IdPDE GitHub organization provides a central place to store, maintain, and document research projects. 
+The IdPDE GitHub organisation provides a central place to store, maintain, and document research projects. 
 
 GitHub is used to:
 
