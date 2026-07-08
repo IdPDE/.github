@@ -32,7 +32,7 @@ There are three different workflows with increasing level of complexity and opti
 | ---------------------------------------------- | -------------------- |
 | Upload documents or update project information | [Level 1 - GitHub web interface](manual/github_web_browser.md) |
 | Work on project files regularly                | Level 2 - GitHub Desktop       |
-| Develop software or work on Linux/ROS systems  | Level 3 - Git Command Line     |
+| Develop software or work on Linux/ROS systems  | [Level 3 - Git Command Line](manual/github_command_line.md) |
 
 
 ### Level 1 – GitHub web interface
@@ -64,13 +64,6 @@ Typical workflow
 6. Commit.
 7. Push the changes to GitHub.
 
-Before starting:
-* Fetch or Pull the latest changes
-
-After finishing:
-* Commit your changes
-* Push them to GitHub
-
 No command-line knowledge is required.
 
 ### Level 3 – Using Git from the command line
@@ -85,7 +78,7 @@ Typical commands include:
 * Create branches
 * Merge branches
 
-For examples on basic Git commands, see [this GitHub page](https://github.com/devaaravmishra/git-commands).
+Full instructions can be found [here](manual/github_command_line.md)
 
 ## Repository structure
 
