@@ -14,6 +14,7 @@ This workflow is intended for advanced users developing software, particularly o
 ```bash
 mkdir -p ~/<workspace-name>
 ```
+For ROS2 workspaces, refer to [this tutorial](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html)
 * Move into the workspace
 ```bash
 cd ~/<workspace-name>
