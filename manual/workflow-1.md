@@ -18,10 +18,13 @@ Typical tasks include:
 When starting a new project:
 
 1. Open the IdPDE Project Template repository
-2. Click Use this template
-3. Choose the IdPDE organization
-4. Enter a repository name
-5. Create the repository
+2. Click 'Use this template' (see figure below)
+3. Click 'Create a new repository'
+4. Select 'IdPDE' as repository owner.
+5. Enter a repository name
+6. Create the repository
+
+![Use this template](/figures/use_this_template.png)
 
 ## Download a repository
 To download the latest version of a project:
@@ -46,9 +49,12 @@ To upload a new document:
 1. Open the repository
 2. Navigate to the file you wish to edit
 3. Open the file
-4. Click the pencil (Edit) button
+4. Click the pencil (Edit) button (see figure below)
 5. Make your changes
 6. Enter a short description of your changes
 7. Commit changes
 
 Commit messages should briefly describe what changed.
+
+![Edit](/figures/edit.png)
+
