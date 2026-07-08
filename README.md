@@ -45,9 +45,7 @@ Typical tasks:
 * Download project files.
 * Review documentation.
 
-No Git knowledge is required.
-
-Full instructions can be found [here](manual/github_web_browser.md)
+No Git knowledge is required, full instructions can be found [here](manual/github_web_browser.md).
 
 ### Level 2 – Using GitHub Desktop (TBA)
 GitHub Desktop synchronises a local folder on your computer with the repository on GitHub.
@@ -76,7 +74,7 @@ Typical commands include:
 * Create branches
 * Merge branches
 
-Full instructions can be found [here](manual/github_command_line.md)
+Full instructions can be found [here](manual/github_command_line.md).
 
 ## Repository structure
 
