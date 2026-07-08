@@ -90,6 +90,8 @@ This shows:
 * Date
 * Commit message
 
+More information on general Git commands can be found [here](https://github.com/devaaravmishra/git-commands).
+
 ## Working with branches
 
 Branches allow experimental work without affecting the main project.
@@ -103,6 +105,6 @@ Typical workflow:
 Create branch &rarr; Develop feature &rarr; Commit changes &rarr; Push branch &rarr; Merge into main
 
 Branches are recommended for larger software developments but are generally unnecessary for documentation updates.
-More info on branching can be found [here](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
+More information on branching can be found [here](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 
 
