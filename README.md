@@ -29,7 +29,7 @@ There are three different workflows with increasing level of complexity and opti
 | If you want to...                              | Recommended workflow |
 | ---------------------------------------------- | -------------------- |
 | Upload documents or update project information | [Level 1 - GitHub web interface](manual/github_web_browser.md) |
-| Work on project files regularly                | Level 2 - GitHub Desktop       |
+| Work on project files regularly                | [Level 2 - GitHub Desktop](manual/github_desktop.md) |
 | Develop software or work on Linux/ROS systems  | [Level 3 - Git Command Line](manual/github_command_line.md) |
 
 
@@ -60,7 +60,7 @@ Typical workflow
 6. Commit.
 7. Push the changes to GitHub.
 
-No command-line knowledge is required.
+No command-line knowledge is required, full instructions can be found [here](manual/github_desktop.md)
 
 ### Level 3 – Using Git from the command line
 This workflow offers the greatest flexibility and is particularly suitable for Linux-based development environments such as ROS.
