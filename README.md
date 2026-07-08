@@ -30,9 +30,9 @@ There are three different workflows with increasing level of complexity and opti
 
 | If you want to...                              | Recommended workflow |
 | ---------------------------------------------- | -------------------- |
-| Upload documents or update project information | Web Browser          |
-| Work on project files regularly                | GitHub Desktop       |
-| Develop software or work on Linux/ROS systems  | Git Command Line     |
+| Upload documents or update project information | [Level 1 - GitHub web interface](manual/github_web_browser.md) |
+| Work on project files regularly                | Level 2 - GitHub Desktop       |
+| Develop software or work on Linux/ROS systems  | Level 3 - Git Command Line     |
 
 
 ### Level 1 – GitHub web interface
