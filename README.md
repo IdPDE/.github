@@ -60,7 +60,7 @@ Typical workflow
 6. Commit.
 7. Push the changes to GitHub.
 
-No command-line knowledge is required, full instructions can be found [here](manual/github_desktop.md)
+No command-line knowledge is required, full instructions can be found [here](manual/github_desktop.md).
 
 ### Level 3 – Using Git from the command line
 This workflow offers the greatest flexibility and is particularly suitable for Linux-based development environments such as ROS.
