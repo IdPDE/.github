@@ -17,14 +17,15 @@ Typical tasks include:
 ## Create a new repository from template
 When starting a new project:
 
-1. Open the IdPDE Project Template repository
-2. Click 'Use this template' (see figure below)
-3. Click 'Create a new repository'
-4. Select 'IdPDE' as repository owner.
+1. Go to the IdPDE GitHub homepage
+2. Go to 'Repositories' and click 'New'
+4. Select 'IdPDE' as repository owner (see figure below)
 5. Enter a repository name
-6. Create the repository
+6. Set the visibility to 'Public' (see figure below)
+7. Choose 'IdPDE/repository-template' as template (see figure below)
+8. Create the repository
 
-![Use this template](/figures/use_this_template.png)
+![New repo](/figures/new_repo.png)
 
 ## Download a repository
 To download the latest version of a project:
