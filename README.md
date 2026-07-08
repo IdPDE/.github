@@ -26,12 +26,11 @@ GitHub is used to:
 ## Choosing the appropriate workflow
 There are three different workflows with increasing level of complexity and options.
 
-| If you want to...                              | Recommended workflow |
-| ---------------------------------------------- | -------------------- |
+| If you want to... | Recommended workflow |
+| --- | --- |
 | Upload documents or update project information | [Level 1 - GitHub web interface](manual/github_web_browser.md) |
-| Work on project files regularly                | [Level 2 - GitHub Desktop](manual/github_desktop.md) |
-| Develop software or work on Linux/ROS systems  | [Level 3 - Git Command Line](manual/github_command_line.md) |
-
+| Work on project files regularly | [Level 2 - GitHub Desktop](manual/github_desktop.md) |
+| Develop software and/or work on Linux/ROS systems  | [Level 3 - Git Command Line](manual/github_command_line.md) |
 
 ### Level 1 – GitHub web interface
 No software installation is required.
